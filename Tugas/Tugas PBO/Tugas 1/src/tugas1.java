@@ -7,7 +7,7 @@ public class tugas1 {
         final String ADMIN_USERNAME = "Admin190";
         final String ADMIN_PASSWORD = "password190";
         final String VALID_NAME = "RAYYA AZ ZAHRA FIRDAUSI KHULUDIYAH";
-        final String VALID_NIM = "202410370110190";
+        final String VALID_NIM = "202410370110190-";
 
         System.out.println("Pilih jenis login:");
         System.out.println("1. Admin");
